@@ -1,5 +1,5 @@
 
-# Python Project Template
+# Cryptocurrency Trading Bot
 
 What is the project? Cryptocurrency Trading Bot with a GUI
 What is the MVP (Minimal Viable Product)? I have opted to create a crypto trading bot with an interface. I will use this display interface to follow trades and market data by using Binanace API & the BitcoinCharts API to pull in financial data & trades about cryptocurrencies.
