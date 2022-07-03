@@ -5,7 +5,7 @@ Congratulations! You have fallen into the exciting world of Cryptocurrency!
 
 Not only will this bot help you trade, it will also show you the historical data to compare and contrast by years by pulling in APIs & also keeping with the current trends of today's emerging crypto. 
 
-What is the project? Cryptocurrency Trading Bot with Graphical output to show historical data & a live time interface 
+What is the project? Cryptocurrency Trading Bot with Graphical output to show historical data using Plotly, Pandas, & Request, & a live time interface using tkinter
 
 What is the MVP (Minimal Viable Product)? I have opted to create a crypto trading bot with an interface. I will use this display interface to follow trades and market 
 data by using Binanace API & the BitcoinCharts API to pull in financial data & trades about cryptocurrencies.
@@ -22,6 +22,6 @@ Features List
 
 -Analyze the data: pandas or making custom functions
 
--Visualize the data by displaying data in a comparison graph & designing a GUI using tkinter
+-Visualize the data by displaying data in a comparison graph with Plotly & Pandas & designing a GUI using tkinter
 
 -Markdown cells in Jupyter explaining the thought process and code
