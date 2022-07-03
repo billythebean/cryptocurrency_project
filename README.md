@@ -8,6 +8,7 @@ What is the MVP (Minimal Viable Product)? I have opted to create a crypto tradin
 When will the project be complete? July 29th at 12:00 (noon), sharp!
 
 Features List
+
 -README
 -Read the data: Pulling crypto exchange APIs
 -Making custom functions(to manipulate and clean the data)
